@@ -1,0 +1,21 @@
+.imgcss {
+  width: 60%;
+}
+.heading {
+  font-size: 30px;
+  margin: 0px;
+  padding: 0px;
+}
+.discription {
+  font-size: 20px;
+  margin: 0px;
+  padding: 0px;
+}
+.eventContainer {
+  width: 50%;
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

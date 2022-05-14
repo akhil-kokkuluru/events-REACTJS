@@ -1,0 +1,33 @@
+.totalBG {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+  width: 100%;
+  min-height: 100vh;
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+.eventsBG {
+  background-color: #64748b;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  width: 70%;
+}
+.eventDetailsBG {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 30%;
+}
+.itemContainer {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
